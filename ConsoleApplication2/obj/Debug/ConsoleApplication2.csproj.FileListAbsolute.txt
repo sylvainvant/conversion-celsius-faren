@@ -1,0 +1,12 @@
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\spectre\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+I:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+I:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+I:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+L:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+L:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+L:\Visual Studio 2012\Projects\conversion-celsius-faren\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
